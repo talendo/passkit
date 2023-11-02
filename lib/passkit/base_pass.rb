@@ -48,6 +48,10 @@ module Passkit
       "rgb(0, 0, 0)"
     end
 
+    def strip_color
+      "rgb(0, 0, 0)"
+    end
+
     def background_color
       "rgb(255, 255, 255)"
     end

@@ -13,6 +13,7 @@ module Passkit
       :format_version,
       :apple_team_identifier,
       :foreground_color,
+      :strip_color,
       :background_color,
       :label_color,
       :web_service_url,

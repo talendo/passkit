@@ -49,6 +49,7 @@ module Passkit
         formatVersion: @pass.format_version,
         teamIdentifier: @pass.apple_team_identifier,
         foregroundColor: @pass.foreground_color,
+        stripColor: @pass.strip_color,
         backgroundColor: @pass.background_color,
         webServiceURL: @pass.web_service_url,
         barcode: @pass.barcode,
